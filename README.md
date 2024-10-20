@@ -61,8 +61,8 @@ The third part of the project focused on analyzing the data warehouse. We posed 
 
 ## Key Results
 
-- **Influence of Language**: The analysis showed that songs performed in English generally received higher scores, indicating a possible language bias.
-- **Neighboring Countries' Votes**: There was a significant correlation between neighboring countries and the number of votes exchanged, showing strong regional voting patterns.
+- **Influence of Language**: The analysis showed that songs performed in English generally received higher scores, indicating a possible language bias, present mainly in the 90s and 00s.
+- **Neighboring Countries' Votes**: There was some correlation between neighboring countries and the number of votes exchanged, showing the existence regional voting patterns.
 - **Impact of Current Events**: No clear trend was found relating current events to voting behavior, though some anomalies were detected.
 - **Performance Order**: Songs performed later in the show tended to receive higher votes, indicating a potential advantage related to performance order.
 
